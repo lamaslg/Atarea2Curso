@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Atarea2Curso</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <script src="js/MobileServices.js"></script>
+   
+     <!-- Atarea2Curso references -->
+    <script src="js/Modelo.js"></script>
+    <script src="js/Azure.js"></script>
+    <script src="js/Funciones.js"></script>
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="/js/navigator.js"></script>
+    <script src="js/helpers.js"></script>
+    <script src="js/Acciones.js"></script>
+    <script src="js/datos.js"></script>
+</head>
+    <body>
+      <!--<div id="defaultsDiv" data-win-control="WinJS.UI.SettingsFlyout" aria-label="App defaults Settings flyout"
+                data-win-options="{width:'wide'}">
+            <div class="win-header" style="background-color:#dbf9ff">
+                <button type="button" onclick="WinJS.UI.SettingsFlyout.show()" class="win-backbutton"></button>
+                <div class="win-label">Defaults</div>
+                <img src="images/smallTile.png" style="position: absolute; right: 40px;"/>
+            </div>
+            <div class="win-content">
+                {Defaults content here}
+            </div>
+        </div>-->
+        <!-- ENDTEMPLATE -->
+        <div id="addClienteFly" data-win-control="WinJS.UI.Flyout" style="border: 1px solid black; background-color: #dcdcdc;">
+            <div>
+                <span>Nombre: </span><br/>
+                <input id="txtNombreCliente" type="text" value="" style="background-color: #fff" placeholder="Nombre del cliente" required="required" />
+            </div>
+            <div>
+                <span>NIF: </span><br />
+                <input id="txtNifCliente" type="text" value="" style="background-color: #fff" placeholder="NIF/CIF del cliente" pattern="(^[0-9]{8}[A-Z]$)||([A-Z][0-9]{8}$)"/>
+            </div>
+            <div>
+                <span>Descripción: </span><br/>
+                <textarea id="txtDescCliente" style="background-color: #fff" placeholder="Descripcion del cliente"></textarea>
+              
+            </div>
+            <div>
+                <span>Logotipo: </span><br/>
+                <img id="logoCli" data-win-bind="alt: title; src: logotipo" src="#" style="max-width: 60px;max-height: 60px;"/><button id="btLogo">Seleccionar logo</button>
+            </div>
+           
+            <div style="text-align: right">
+                <button id="btnAddCliOk">Confirmar</button>
+                <button id="btnAddCliClose">Cerrar</button>
+                
+            </div>
+          
+        </div>
+           
+        <div id="contenthost" data-win-control="Application.PageControlNavigator" data-win-options="{home: '/pages/home/home.html'}"></div>
+        <div id="appbar" data-win-control="WinJS.UI.AppBar">
+            <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'btAdd', label:'Añadir', icon:'add',section:'global'}" type="button"></button>
+           
+        </div>
+    </body>
+</html>

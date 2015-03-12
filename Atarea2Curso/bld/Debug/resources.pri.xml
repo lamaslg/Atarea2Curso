@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="787ea57f-cf6e-4676-a146-97d1cb314a79" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="default.html" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/default.html">
+				<Candidate type="Path">
+					<Value>default.html</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="default.css" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="default-logo.png" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/images/default-logo.png">
+					<Candidate type="Path">
+						<Value>images\default-logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo.png" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/images/logo.png">
+					<Candidate type="Path">
+						<Value>images\logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="smalllogo.png" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/images/smalllogo.png">
+					<Candidate type="Path">
+						<Value>images\smalllogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="splashscreen.png" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/images/splashscreen.png">
+					<Candidate type="Path">
+						<Value>images\splashscreen.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="storelogo.png" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/images/storelogo.png">
+					<Candidate type="Path">
+						<Value>images\storelogo.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="Acciones.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/Acciones.js">
+					<Candidate type="Path">
+						<Value>js\Acciones.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Azure.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/Azure.js">
+					<Candidate type="Path">
+						<Value>js\Azure.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="datos.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/datos.js">
+					<Candidate type="Path">
+						<Value>js\datos.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="default.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/default.js">
+					<Candidate type="Path">
+						<Value>js\default.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Funciones.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/Funciones.js">
+					<Candidate type="Path">
+						<Value>js\Funciones.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="helpers.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/helpers.js">
+					<Candidate type="Path">
+						<Value>js\helpers.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServices.intellisense.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/MobileServices.intellisense.js">
+					<Candidate type="Path">
+						<Value>js\MobileServices.intellisense.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServices.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/MobileServices.js">
+					<Candidate type="Path">
+						<Value>js\MobileServices.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServices.min.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/MobileServices.min.js">
+					<Candidate type="Path">
+						<Value>js\MobileServices.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Modelo.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/Modelo.js">
+					<Candidate type="Path">
+						<Value>js\Modelo.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="navigator.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/js/navigator.js">
+					<Candidate type="Path">
+						<Value>js\navigator.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="pages">
+				<ResourceMapSubtree name="Clientes">
+					<NamedResource name="clientes.css" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/pages/Clientes/clientes.css">
+						<Candidate type="Path">
+							<Value>pages\Clientes\clientes.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="clientes.html" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/pages/Clientes/clientes.html">
+						<Candidate type="Path">
+							<Value>pages\Clientes\clientes.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="clientes.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/pages/Clientes/clientes.js">
+						<Candidate type="Path">
+							<Value>pages\Clientes\clientes.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="home">
+					<NamedResource name="home.css" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/pages/home/home.css">
+						<Candidate type="Path">
+							<Value>pages\home\home.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="home.html" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/pages/home/home.html">
+						<Candidate type="Path">
+							<Value>pages\home\home.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="home.js" uri="ms-resource://787ea57f-cf6e-4676-a146-97d1cb314a79/Files/pages/home/home.js">
+						<Candidate type="Path">
+							<Value>pages\home\home.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

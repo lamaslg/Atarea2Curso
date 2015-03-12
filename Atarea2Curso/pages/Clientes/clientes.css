@@ -1,0 +1,40 @@
+﻿.clientes section[role=main] {
+    margin-left: 120px;
+    margin-right: 120px;
+    display: -ms-grid;
+      -ms-grid-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: 100%;
+
+}
+#clientes {
+     -ms-grid-row: 1;
+  -ms-grid-column: 1;
+
+}
+#proyectos {
+     -ms-grid-row: 1;
+  -ms-grid-column: 2;
+
+}
+#tareas {
+     -ms-grid-row: 1;
+  -ms-grid-column: 3;
+
+}
+#listaClientes {
+    height: 100%;
+
+}
+@media screen and (-ms-view-state: snapped) {
+    .clientes section[role=main] {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+    .clientes section[role=main] {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+}

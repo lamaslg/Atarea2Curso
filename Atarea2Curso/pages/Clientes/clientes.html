@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>clientes</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="clientes.css" rel="stylesheet" />
+    <script src="clientes.js"></script>
+</head>
+    <body>
+        <!--Templates-->
+        <div id="templateClientes" data-win-control="WinJS.Binding.Template">
+            <div style="width: 182px; height: 70px; padding: 5px; overflow: hidden; display: -ms-grid;">
+
+                <!-- Displays the "picture" field. -->
+                <img data-win-bind="alt: title; src: logotipo"
+                     src="#"
+                     style="width: 60px; height: 60px; margin: 5px; -ms-grid-column: 1;" />
+                <div style="margin: 5px; -ms-grid-column: 2">
+
+                    <!-- Displays the "title" field. -->
+                    <h4 data-win-bind="innerText: Nombre"></h4>
+
+                    <!-- Displays the "text" field. -->
+                    <h6 data-win-bind="innerText: NIF"></h6>
+                </div>
+            </div>
+        </div>
+        <!--Fin templates-->
+        <div class="clientes fragment">
+            <header aria-label="Header content" role="banner">
+                <button class="win-backbutton" aria-label="Back" disabled type="button"></button>
+                <h1 class="titlearea win-type-ellipsis">
+                    <span class="pagetitle">Atarea2</span>
+                </h1>
+            </header>
+            <section aria-label="Main content" role="main" >
+               <img src="" id="imp"/>
+
+                    <div id="clientes" >
+                        <h2>Tus clientes</h2>
+                        <div id="listaClientes" data-win-control="WinJS.UI.ListView"
+                             data-win-options="{itemDataSource : Datos.Clientes.dataSource,
+    itemTemplate: select('#templateClientes'),
+    layout : {type: WinJS.UI.CellSpanningLayout}}" >
+                        </div>
+
+                    </div>
+                    <div id="proyectos">
+                        <h2>Últimos proyectos</h2>
+
+                    </div>
+                    <div id="tareas">
+                        <h2>Últimas tareas</h2>
+
+                    </div>
+              
+            </section>
+        </div>
+    </body>
+</html>

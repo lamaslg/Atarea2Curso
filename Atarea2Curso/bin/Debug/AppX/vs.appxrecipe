@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LUIS-CASA</Machine>
+    <WindowsUser>lamas_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>3CB73E3753D714F363844C12FCD59573F92880F21A4020D07462C0688BC9B785</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>787ea57f-cf6e-4676-a146-97d1cb314a79_1.0.0.0_neutral__aj4cr65zz3n1r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>787ea57f-cf6e-4676-a146-97d1cb314a79_aj4cr65zz3n1r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>787ea57f-cf6e-4676-a146-97d1cb314a79</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=lamas_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-11T20:13:44.053</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\ayuda.html">
+      <PackagePath>ayuda.html</PackagePath>
+      <Modified>2013-11-11T20:13:17.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\pages\Clientes\clientes.html">
+      <PackagePath>pages\Clientes\clientes.html</PackagePath>
+      <Modified>2013-10-27T16:37:21.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\pages\HelpUi.html">
+      <PackagePath>pages\HelpUi.html</PackagePath>
+      <Modified>2013-11-11T19:28:52.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-10-24T16:12:20.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-11-17T07:03:31.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-10-24T16:11:44.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\pages\Clientes\clientes.css">
+      <PackagePath>pages\Clientes\clientes.css</PackagePath>
+      <Modified>2013-10-26T17:32:47.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\pages\HelpUi.css">
+      <PackagePath>pages\HelpUi.css</PackagePath>
+      <Modified>2013-11-11T19:27:34.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2013-10-24T16:04:36.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T16:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\images\default-logo.png">
+      <PackagePath>images\default-logo.png</PackagePath>
+      <Modified>2013-10-26T16:25:59.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T16:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T16:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-05T16:59:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\Acciones.js">
+      <PackagePath>js\Acciones.js</PackagePath>
+      <Modified>2013-10-27T21:15:59.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\Azure.js">
+      <PackagePath>js\Azure.js</PackagePath>
+      <Modified>2013-11-10T17:50:00.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\datos.js">
+      <PackagePath>js\datos.js</PackagePath>
+      <Modified>2013-10-26T15:53:11.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-11-11T20:13:42.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\Funciones.js">
+      <PackagePath>js\Funciones.js</PackagePath>
+      <Modified>2013-10-24T17:06:27.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\helpers.js">
+      <PackagePath>js\helpers.js</PackagePath>
+      <Modified>2013-10-26T10:45:38.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\MobileServices.intellisense.js">
+      <PackagePath>js\MobileServices.intellisense.js</PackagePath>
+      <Modified>2013-09-28T10:32:50.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\MobileServices.js">
+      <PackagePath>js\MobileServices.js</PackagePath>
+      <Modified>2013-10-26T12:38:06.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\MobileServices.min.js">
+      <PackagePath>js\MobileServices.min.js</PackagePath>
+      <Modified>2013-09-28T10:32:50.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\Modelo.js">
+      <PackagePath>js\Modelo.js</PackagePath>
+      <Modified>2013-10-26T16:31:20.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-10-24T16:04:36.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\js\sett.js">
+      <PackagePath>js\sett.js</PackagePath>
+      <Modified>2013-11-11T20:13:04.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\pages\Clientes\clientes.js">
+      <PackagePath>pages\Clientes\clientes.js</PackagePath>
+      <Modified>2013-10-27T21:31:37.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\pages\HelpUi.js">
+      <PackagePath>pages\HelpUi.js</PackagePath>
+      <Modified>2013-11-11T19:27:33.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2013-10-26T16:37:02.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lamas_000\Dropbox\MCSD\70-481\Atarea2Curso\Atarea2Curso\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-11T20:13:43.950</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
